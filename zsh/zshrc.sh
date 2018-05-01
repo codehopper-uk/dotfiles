@@ -13,6 +13,7 @@
 
 # Settings
 	export VISUAL=vim
+	export ZSH=/Users/khaledhussain/dotfiles/zsh/plugins/oh-my-zsh
 
 source ~/dotfiles/zsh/plugins/fixls.zsh
 
