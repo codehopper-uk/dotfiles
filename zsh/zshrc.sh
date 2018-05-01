@@ -69,5 +69,4 @@ fi
 
 source ~/dotfiles/zsh/prompt.sh
 
-export AWS_PROFILE=khaledhussainmoneyfarm
 eval "$(direnv hook zsh)"
