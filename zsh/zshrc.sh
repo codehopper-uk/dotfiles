@@ -13,6 +13,7 @@
 
 # Settings
 	export VISUAL=vim
+	export ZSH=/Users/khaledhussain/dotfiles/zsh/plugins/oh-my-zsh
 
 source ~/dotfiles/zsh/plugins/fixls.zsh
 
@@ -67,3 +68,6 @@ if [[ "${terminfo[kcud1]}" != "" ]]; then
 fi
 
 source ~/dotfiles/zsh/prompt.sh
+
+export AWS_PROFILE=khaledhussainmoneyfarm
+eval "$(direnv hook zsh)"
