@@ -50,6 +50,7 @@ source ~/dotfiles/zsh/keybindings.sh
 source ~/dotfiles/zsh/plugins/oh-my-zsh/plugins/wd/wd.plugin.zsh
 source ~/dotfiles/zsh/plugins/oh-my-zsh/plugins/git/git.plugin.zsh
 source ~/dotfiles/zsh/plugins/oh-my-zsh/plugins/geeknote/geeknote.plugin.zsh
+source ~/dotfiles/zsh/plugins/oh-my-zsh/lib/clipboard.zsh
 
 # Fix for arrow-key searching
 # start typing + [Up-Arrow] - fuzzy find history forward
